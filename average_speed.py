@@ -10,5 +10,7 @@ distance2 = 100
 time2 = 3
 speed2 = average_speed(distance2, time2)
 
+
+
 print("Средняя скорость первого участка пути: ", speed1) # 25.0
 print("Средняя скорость второго участка пути: ", speed2) # 33.333333333333336
